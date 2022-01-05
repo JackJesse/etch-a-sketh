@@ -1,1 +1,1 @@
-# etcha-sketh
+# etch-a-sketh
